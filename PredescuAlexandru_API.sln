@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredescuAlexandru_API", "PredescuAlexandru_API\PredescuAlexandru_API.csproj", "{E7A5280F-97E0-423E-8011-ACD3265752D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredescuAlexandru_API.Tests", "PredescuAlexandru_API.Tests\PredescuAlexandru_API.Tests.csproj", "{DCA6522D-1C42-4E07-AAEA-4C5C954DF812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A5280F-97E0-423E-8011-ACD3265752D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A5280F-97E0-423E-8011-ACD3265752D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A5280F-97E0-423E-8011-ACD3265752D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A5280F-97E0-423E-8011-ACD3265752D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA6522D-1C42-4E07-AAEA-4C5C954DF812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA6522D-1C42-4E07-AAEA-4C5C954DF812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA6522D-1C42-4E07-AAEA-4C5C954DF812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA6522D-1C42-4E07-AAEA-4C5C954DF812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838E7C98-ECAB-4814-B963-FA55C02E674E}
+	EndGlobalSection
+EndGlobal
